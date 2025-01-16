@@ -95,7 +95,7 @@ class GovSchemesBot:
 
 def run_chatbot():
     # Initialize the chatbot with your API key
-    api_key = "AIzaSyD_fbPZI1z6OeEHwXUSeDtBGWFl5ntuulE"  # Replace with your actual API key
+    api_key = "Replace with your API key"  # Replace with your actual API key
     bot = GovSchemesBot(api_key)
     
     print("Government Schemes Assistant: Hello! I can help you with information about government schemes and aid programs. "
